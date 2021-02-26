@@ -5,9 +5,13 @@ I could download all course files from github repository, but I've decided to co
 
 Course contains 21 modules and about 77 videos with coding exmaples.
 
-In this README file I will add my own personal notes. And I will try to track my progress. Sometimes it is hard to find time to take an online course part-time (at evenings or weekend).
+In this README file I will add my own personal notes. And I will try to track my progress. Sometimes it is hard to find time to take an online course part-time (at evenings or weekend and between other projects or activities).
 
 -----
-DAY1 - MODULE #1: New Variables - Creation, Updating and Scoping - 5 videos 
------
-Video #1: "var Scoping Refresher" - under 6 minutes video
+## DAY1 - MODULE #1: New Variables - Creation, Updating and Scoping
+
+Module about JS variables and scope + <em>var</em>, <em>let</em> and <em>const</em> explanations.
+
+### Video #1: "var Scoping Refresher" - under 6 minutes video
+
+
